@@ -1,6 +1,6 @@
 '''
 pwgenerator.py - Michael Bateman
-Refer to https://github.com/michael-bateman/password-generator/README.md for documentation.
+Refer to https://github.com/michael-bateman/password-generator/blob/master/README.md for documentation.
 '''
 
 # imports
