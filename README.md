@@ -24,7 +24,8 @@ Open up a Command Line prompt and type:
 ```bash
 $ git clone https://github.com/michael-bateman/password-generator/
 ```
-__*Note:__ Only follow the next steps if you would like to run the program*
+*__Note:__ Only follow the next steps if you would like to run the program*
+
 Navigate to the directory:
 ```bash
 $ cd password-generator/
