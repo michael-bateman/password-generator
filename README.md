@@ -6,7 +6,7 @@ A simple easy to use python password generator.  Creates secure passwords for yo
 * It can produce many cool and intresting passwords.
 * Produce many passwords in one text file (max I've tried is 100,000,000 and it took about 20 minutes)
 
-___Note:__ I was using a MacBook Pro to test the production of passwords._
+*__Note:__ I was using a MacBook Pro to test the production of passwords.*
 
 You can find a sample password list of how the passwords would be produced in the [`passwords.txt`](passwords.txt) file.
 
